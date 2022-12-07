@@ -6,7 +6,7 @@
         "desc": "Un buzo que re va con vos",
         "precio": 1200,
         "talle": "L",
-        "img": "public/images/buzo.jpg",
+        "img": "./public/images/buzo.jpg",
         "cantidad":1
     },
 
