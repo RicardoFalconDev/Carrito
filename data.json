@@ -65,7 +65,16 @@
         "cantidad":1
     },
 
-    
+    {
+        "id": 7,
+        "nombre": "Prueba agregar 1",
+        "tipo": "prueba",
+        "desc": "Un buzo de prueba ",
+        "precio": 1800,
+        "talle": "ficticia",
+        "img": "public/images/buzo.jpg",
+        "cantidad":1
+    }
 
 
 ]
